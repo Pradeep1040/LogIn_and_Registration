@@ -1,4 +1,4 @@
-# LogIn_and_Registration
+# LogIn_and_Registration Pages
 Login and Registration page using React Js with proper validation.
 
 #React Command you should follow
